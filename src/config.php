@@ -7,7 +7,7 @@ define('DBPass', 'demodemo');
 //AWS Key config
 //define('AWSKey', '');
 //define('AWSSecret', '');
-define('AWSRegion', 'us-west');
+define('AWSRegion', 'us-west-2');
 
 //AWS S3 config
 define('S3Bucket', 'irene123');
