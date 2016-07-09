@@ -51,7 +51,7 @@ $stmt->execute();
     <head>
         <title>Register done</title>
     </head>
-    <body bgcolor="green">
+    <body bgcolor="#fff">
         done
     </body>
 </html>
